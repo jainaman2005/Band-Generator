@@ -1,0 +1,19 @@
+#heading{
+   color: Purple; 
+}
+body{
+    background: black;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    margin-top: 25vh;
+    justify-content: center;
+    align-items: center;
+}
+#footer{
+    position: absolute;
+    right: 15px;
+    bottom: 2px;
+    color: white;
+}
